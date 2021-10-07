@@ -1,9 +1,10 @@
 {
-  "botname": "Zacros Bot",
+  "botname": "General Bot",
   "ownerNumber": [
-    "YOUR NUMBER"
+    "6282322153431",
+    "6283197878426"
   ],
-  "footerText": "Powered by zacros team",
+  "footerText": "https://github.com/Kira-Master",
   "prefix": [
     ".",
     "!",
@@ -13,7 +14,7 @@
     "+",
     ","
   ],
-  "ownername": "Zacros Team",
+  "ownername": "Kira Master",
   "unicode" : {
   "head": "⬣",
   "list": "⬡",
