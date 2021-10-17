@@ -51,10 +51,10 @@
     "botAdmin": "Bot Nya Admin Dong"
   },
   "session": {
-    "clientID": "3HnBVi3VtPA4osiv2RhyDA==",
-	  "serverToken": "1@7ERTA+Jl/p/lN9mr4LJBO3QMtGVtev5axx40ceBFYXP7IlGhveYdomSO6W71A0mBCOqbGsS426u56g==",
-  	"clientToken": "GQrE4IHzjEJQcaRdWX8kYFe88Ba4QDvFCxKeTerBFOg=",
-	  "encKey": "HljcEw7Nx9mDo7tRytRZiEcMo6XYdJO3UgW7LBTU+8E=",
-	  "macKey": "J3qEs1nDQKZ6EN8rLOKx6DutlLabi27vOrCx26hFH+Q="
-  }
+	"clientID": "oJbYdU8K2fZlNrjYJCNEFQ==",
+	"serverToken": "1@FiT4H/g5CfnJ1ViwfrRghbzV3OiX7p7NVDeXSyNdinSvtMpOsmpY5JR+cAFPjMRi22hwnOq6FACluw==",
+	"clientToken": "eDZ8wo63RF/GNtfbQcvr59GomW/KpVA5XUIEqvVy2j4=",
+	"encKey": "UdjIkFPZT1yp36Ni3NnS6iwIyL5/10QHGDaSpsNtAO4=",
+	"macKey": "imYuvg/1ooAW9A8O8lhR+3zVIM2fnBqUYFXsvmiPGHk="
+}
 }
